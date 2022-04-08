@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "173682346083",
+    "project_id": "game-tv-test",
+    "storage_bucket": "game-tv-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173682346083:android:bea5b4e52ec61cacd99056",
+        "android_client_info": {
+          "package_name": "com.ratul.bluestack_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173682346083-sd1n9t2fum9848teuqot5660ff5nff0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxUn6JXfTp1sVCJUHmCVJQvSL-Njr6STw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173682346083-sd1n9t2fum9848teuqot5660ff5nff0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
