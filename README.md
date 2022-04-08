@@ -4,13 +4,13 @@
 <P>
   steps to login : 
 
-1 : Enter userName (min 3 characters and max 10)
+1 : Enter userName (min 3 characters and max 11)
 
 </P>
 
 <P>
 
-2 : Enter password (min 3 characters and max 10)
+2 : Enter password (min 3 characters and max 11)
 
   </p>
 
