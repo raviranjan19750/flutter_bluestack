@@ -7,7 +7,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 
 class HomePageBloc extends Bloc<HomePageEvent,HomePageState>{
 
-  ApiRepository apiRepository;
+  ApiRepository apiRepository ;
 
   String userId,token;
 
